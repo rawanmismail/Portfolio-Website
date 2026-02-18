@@ -61,7 +61,7 @@ Accent: #a67c52 (Rich Brown)
 Text: #2d2520
 ```
 
----
+
 
 ## Project Structure
 
@@ -80,7 +80,7 @@ personal-website/
 ### Updates
 This website is being regularly upated
 
----
+
 
 ## Bilingual Support
 
@@ -89,7 +89,7 @@ The website includes complete English and Arabic versions:
 - **English:** `index.html` + `script.js`
 - **Arabic:** `index-ar.html` + `style-ar.css` + `script-ar.js`
 The language toggle button switches between versions while preserving the selected theme.
----
+
 
 ## Performance
 
@@ -98,17 +98,17 @@ The language toggle button switches between versions while preserving the select
 - **Smooth Animations:** CSS transitions and transforms
 - **Efficient Code:** Clean, organized, and well-commented
 
----
+
 
 
 ## Author
 **Rawan Mohamed**
 
-- 💼 LinkedIn: [linkedin.com/in/rawan28-](https://linkedin.com/in/rawan28-)
-- 🐙 GitHub: [github.com/rawanmismail](https://github.com/rawanmismail)
-- 📧 Email: rawan.mohamedismail@yahoo.com
+- LinkedIn: [linkedin.com/in/rawan28-](https://linkedin.com/in/rawan28-)
+- GitHub: [github.com/rawanmismail](https://github.com/rawanmismail)
+- Email: rawan.mohamedismail@yahoo.com
 
----
+
 
 
 ## Changelog
@@ -124,6 +124,4 @@ The language toggle button switches between versions while preserving the select
 - ✅ Custom cursor (desktop)
 - ✅ Smooth scroll animations
 
----
 
-<p align="center">© 2026 All Rights Reserved</p>
